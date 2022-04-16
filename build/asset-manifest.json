@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc90b351.css",
+    "main.js": "/static/js/main.32476d0f.js",
+    "static/media/About_Hero.png": "/static/media/About_Hero.57d84481d8dae003fbdb.png",
+    "static/media/home.webp": "/static/media/home.b3cd271253d7173c1258.webp",
+    "static/media/Akshar-VariableFont_wght.ttf": "/static/media/Akshar-VariableFont_wght.4f955be84ec05bc4e3f8.ttf",
+    "static/media/item2.png": "/static/media/item2.7f2201aeecc29451372b.png",
+    "static/media/item3.png": "/static/media/item3.74813f8360cac53c7480.png",
+    "static/media/item1.png": "/static/media/item1.99afa0b5c2f84ee27c4d.png",
+    "static/media/Nav_Logo.png": "/static/media/Nav_Logo.a17554e04fc832382f3f.png",
+    "index.html": "/index.html",
+    "static/media/shopping-cart.svg": "/static/media/shopping-cart.33ce5d1587bf4a7a971bb64d9418e125.svg",
+    "static/media/x.svg": "/static/media/x.ca614004cbf0091fa7575ecf03ee711d.svg",
+    "main.fc90b351.css.map": "/static/css/main.fc90b351.css.map",
+    "main.32476d0f.js.map": "/static/js/main.32476d0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc90b351.css",
+    "static/js/main.32476d0f.js"
+  ]
+}
